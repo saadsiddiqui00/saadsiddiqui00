@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @saadsiddiqui00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Muhammad Saad Saeed
 
-<!---
-saadsiddiqui00/saadsiddiqui00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend-focused developer (React + JavaScript) based in Ilmenau, Germany.  
+Actively looking for Working Student / Internship / Junior Frontend roles.
+
+## 🧰 Skills
+- React, JavaScript, HTML, CSS
+- Git/GitHub, Vercel, GitHub Pages
+- APIs with Axios
+
+## 🚀 Projects (Live)
+- **Portfolio:** https://saadsiddiqui00.github.io/portfolio/
+- **Calculator:** https://saadsiddiqui00.github.io/Calculator/
+- **To-Do App:** https://todo-app-5eqo.vercel.app/
+- **Weather App:** https://weather-app-1xog.vercel.app/
+
+## 📄 CV
+- Download: https://saadsiddiqui00.github.io/portfolio/Saad_Resume.pdf
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/muhammad-saad-saeed-74a3473a0/
+- GitHub: https://github.com/saadsiddiqui00
+- Email: saadsaeed385@gmail.com

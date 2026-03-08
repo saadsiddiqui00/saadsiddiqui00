@@ -18,6 +18,9 @@ MongoDB, MySQL
 Tools  
 Git, GitHub, VS Code, Vercel
 
+Other  
+REST APIs, Responsive Design
+
 ## 🚀 Projects
 
 Calculator  

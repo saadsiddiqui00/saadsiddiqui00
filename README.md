@@ -35,8 +35,6 @@ Weather App
 https://weather-app-sage.vercel.app/
 
 
-## 📄 CV
-- Download: https://saadsiddiqui00.github.io/portfolio/Saad_Resume.pdf
 
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/muhammad-saad-saeed-74a3473a0/

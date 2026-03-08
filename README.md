@@ -1,7 +1,7 @@
 # Muhammad Saad Saeed
 
-Frontend-focused developer (React + JavaScript) based in Ilmenau, Germany.  
-Actively looking for Working Student / Internship / Junior Frontend roles.
+Junior Web Developer | React, JavaScript, HTML, CSS  
+M.Sc. Media Engineering Student at TU Ilmenau, Germany
 
 ## 🧰 Skills
 - React, JavaScript, HTML, CSS

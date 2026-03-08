@@ -3,16 +3,31 @@
 Junior Web Developer | React, JavaScript, HTML, CSS  
 M.Sc. Media Engineering Student at TU Ilmenau, Germany
 
-## 🧰 Skills
-- React, JavaScript, HTML, CSS
-- Git/GitHub, Vercel, GitHub Pages
-- APIs with Axios
 
-## 🚀 Projects (Live)
-- **Portfolio:** https://saadsiddiqui00.github.io/portfolio/
-- **Calculator:** https://saadsiddiqui00.github.io/Calculator/
-- **To-Do App:** https://todo-app-5eqo.vercel.app/
-- **Weather App:** https://weather-app-1xog.vercel.app/
+## 🛠 Skills
+
+Frontend  
+React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+
+Backend  
+Node.js, Express.js
+
+Database  
+MongoDB, MySQL
+
+Tools  
+Git, GitHub, VS Code, Vercel
+
+## 🚀 Projects
+
+Calculator  
+https://saadsiddiqui00.github.io/calculator/
+
+To-Do App  
+https://todo-app-sage.vercel.app/
+
+Weather App  
+https://weather-app-sage.vercel.app/
 
 ## 📄 CV
 - Download: https://saadsiddiqui00.github.io/portfolio/Saad_Resume.pdf
